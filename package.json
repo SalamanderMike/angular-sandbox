@@ -1,0 +1,29 @@
+{
+	"name": "angular-sandbox",
+	"version": "0.1.0",
+	"description": "Angular 2 sandbox built in es6 with Webpack",
+	"main": "index.js",
+	"repository": "git@github.com:SalamanderMike/angular-sandbox.git",
+	"author": "Michael McClure <SalamanderMike@me.com>",
+	"license": "MIT",
+	"dependencies": {
+		"@angular/core": "^9.1.0",
+		"es6-promise": "^4.2.8",
+		"es6-shim": "^0.35.5",
+		"reflect-metadata": "^0.1.13",
+		"rxjs": "^6.5.5",
+		"tslib": "^1.11.1",
+		"zone.js": "^0.10.3"
+	},
+	"devDependencies": {
+		"@babel/cli": "^7.8.4",
+		"@babel/core": "^7.9.0",
+		"@babel/preset-env": "^7.9.0",
+		"babel-loader": "^8.1.0",
+		"concurrently": "^5.1.0",
+		"lite-server": "^2.5.4",
+		"script-loader": "^0.7.2",
+		"webpack": "^4.42.1",
+		"webpack-cli": "^3.3.11"
+	}
+}
