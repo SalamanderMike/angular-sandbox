@@ -7,7 +7,7 @@
 	"author": "Michael McClure <SalamanderMike@me.com>",
 	"license": "MIT",
 	"dependencies": {
-		"@angular/core": "^9.1.0",
+		"@angular/core": "^11.0.5",
 		"es6-promise": "^4.2.8",
 		"es6-shim": "^0.35.5",
 		"reflect-metadata": "^0.1.13",
